@@ -1,4 +1,4 @@
-# My_personal_projects
+# My personal projects
 
 ![image](https://github.com/user-attachments/assets/d8db6ebb-a740-414b-9a36-8ebd4c437da9)
 
