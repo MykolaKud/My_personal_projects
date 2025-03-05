@@ -12,7 +12,7 @@ I enjoy working with data to transform raw information into meaningful insights,
 
 Contains analytics with different metrics and visualizations using Python and Google BigQuery 
 
-2. [Brazilian_E-com_Analytics_project](https://github.com/MykolaKud/Brazilian_E-com_Analytics_project)
+2. [Brazilian E-com Analytics project](https://github.com/MykolaKud/Brazilian_E-com_Analytics_project)
 
 Analytics with different metrics using SQL
 
